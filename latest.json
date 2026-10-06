@@ -1,0 +1,7 @@
+{
+    "version":  "1.1.0",
+    "url":  "https://github.com/wizhut/showcase-releases/raw/main/Showcase-1.1.0-x64.msi",
+    "sha256":  "2470ee4f3be474629c8a80bb2e70c5a073a7fa1759df048b0faf6d40e5305d51",
+    "notes":  "Showcase now keeps itself up to date: when a new version is out, it offers to install it (About has Check for updates). Also: platform logos throughout, physical copies counted with their console\u0027s platform, glossy posters, smarter matching of the same game across stores, a screenshot viewer, and your unlocked achievements per game on the Stats page.",
+    "page":  "https://github.com/wizhut/showcase-releases"
+}
