@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.3.1 (2026-10-27)
+
+Fixes for 1.3.0. In a country with no English PlayStation Store (Germany, France, Japan and others), PlayStation games were priced in US dollars and left off the collection-value card; Showcase now reads the country's own store. Change poster no longer offers Steam soundtracks, DLC or tools, or GOG games unrelated to the search. The collection-value card's footer fits on one line.
+
 ## 1.3.0 (2026-10-27)
 
 Two new brag cards in Stats: your rarest achievements (choose the six it shows), and what your collection costs at today's store prices on Steam, GOG, Epic, PlayStation and Nintendo. Right-click a game and choose Change poster to pick a better one from its stores, SteamGridDB or a file of your own; with a free SteamGridDB key, games with only square art or none get full-size posters automatically. The library bar's filters are icons now, plus a No art filter for the games still showing a Showcase cover. Also: Nintendo syncs again after Nintendo changed its purchase history page, Epic covers are shown whole, Steam achievements that share an icon are matched by name, and What's new shows an update's notes and date inside Showcase.
