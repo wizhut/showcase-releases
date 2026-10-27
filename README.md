@@ -9,7 +9,7 @@ Steam, GOG, Epic Games, PlayStation, Xbox and Nintendo, plus the cartridges and 
 
 ## Download
 
-**[Showcase 1.2.0 for Windows (64-bit)](https://github.com/wizhut/showcase-releases/releases/download/v1.2.0/Showcase-1.2.0-x64.msi)** (52 MB)
+**[Showcase 1.3.0 for Windows (64-bit)](https://github.com/wizhut/showcase-releases/releases/download/v1.3.0/Showcase-1.3.0-x64.msi)** (52 MB)
 
 Run the installer: Showcase goes to Program Files with a Start menu shortcut, and .NET is included.
 It needs Windows 10 or 11 (64-bit) and the Microsoft Edge WebView2 runtime, which Windows 11 already has.

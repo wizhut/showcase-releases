@@ -1,7 +1,8 @@
 {
-    "version":  "1.2.0",
-    "url":  "https://github.com/wizhut/showcase-releases/releases/download/v1.2.0/Showcase-1.2.0-x64.msi",
-    "sha256":  "85ebc494a4582b7c1aa95457ab17311f7d14add1286e4cb2de2ba86178a899c1",
-    "notes":  "Right-click a game and choose Refresh metadata to fetch its title, art, platforms and achievements from its store again. A New filter shows the games that appeared in your library in the last 15 days. Newer Steam games now get their real covers, and a game with no art at all gets a Showcase cover with its title. Stats shows your achievements as a grid of games: open one for its achievements as cards, rarest first. Also: an Installed filter, Add game picks a platform from your signed-in stores, the sync menu lists only signed-in stores, calmer sync status and smoother filtering. Xbox is held back for now: Xbox Live stopped accepting the sign-in Showcase used.",
+    "version":  "1.3.0",
+    "released":  "2026-10-27",
+    "url":  "https://github.com/wizhut/showcase-releases/releases/download/v1.3.0/Showcase-1.3.0-x64.msi",
+    "sha256":  "f1f87efbbcc9c0c0a5f42ed3ca6289929c2570023e58ac60780505326e47b898",
+    "notes":  "Two new brag cards in Stats: your rarest achievements (choose the six it shows), and what your collection costs at today\u0027s store prices on Steam, GOG, Epic, PlayStation and Nintendo. Right-click a game and choose Change poster to pick a better one from its stores, SteamGridDB or a file of your own; with a free SteamGridDB key, games with only square art or none get full-size posters automatically. The library bar\u0027s filters are icons now, plus a No art filter for the games still showing a Showcase cover. Also: Nintendo syncs again after Nintendo changed its purchase history page, Epic covers are shown whole, Steam achievements that share an icon are matched by name, and What\u0027s new shows an update\u0027s notes and date inside Showcase.",
     "page":  "https://github.com/wizhut/showcase-releases"
 }
